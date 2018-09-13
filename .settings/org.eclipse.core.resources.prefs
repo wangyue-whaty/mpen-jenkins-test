@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/mpen/api/domain/bookCode=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/profile/dev=UTF-8
+encoding//src/main/resources/profile/dev/application.properties=UTF-8
+encoding//src/main/resources/profile/linux-dev=UTF-8
+encoding//src/main/resources/profile/linux-dev/application.properties=UTF-8
+encoding//src/main/resources/profile/prop/application.properties=UTF-8
+encoding//src/main/resources/profile/test/application.properties=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8

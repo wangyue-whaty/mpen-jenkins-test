@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:17:36:18 +0800] "GET /async HTTP/1.1" 404 230 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:17:36:18 +0800] "GET /favicon.ico HTTP/1.1" 200 946 "http://localhost:8680/async" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:17:36:58 +0800] "GET /async HTTP/1.1" 404 231 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:18:00:04 +0800] "GET /async/wangyue/hello HTTP/1.1" 404 229 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:18:00:14 +0800] "GET /wangyue/hello HTTP/1.1" 500 87 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:18:00:55 +0800] "GET /wangyue/hello HTTP/1.1" 200 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:18:03:19 +0800] "GET /wangyue/hello HTTP/1.1" 200 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [09/Apr/2018:18:06:52 +0800] "GET /wangyue/hello HTTP/1.1" 200 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
