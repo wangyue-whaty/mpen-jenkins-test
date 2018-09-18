@@ -48,7 +48,7 @@ public class AuthenticationFilter extends OncePerRequestFilter {
     @Override
     protected void doFilterInternal(HttpServletRequest httpRequest, HttpServletResponse response, FilterChain chain)
         throws ServletException, IOException {
-        // 设置禁止缓存
+        // 设置禁止缓存dcacascsac
         response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
         response.setCharacterEncoding("utf8");
         NetworkResult<Object> result = null;
