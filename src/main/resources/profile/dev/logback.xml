@@ -6,7 +6,7 @@
 			<pattern>%d %p (%file:%line\)- %m%n</pattern>
 		</encoder>
 	</appender>
-	<appender name="UserFile" 
+	<appender name="UserFile"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
 			<FileNamePattern>./logs/userlog.%d{yyyy-MM-dd}.log</FileNamePattern>
